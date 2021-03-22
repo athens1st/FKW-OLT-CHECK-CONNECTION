@@ -1,0 +1,1 @@
+'interface vlan add vlan-id={} name={} interface={}'.format(vlan_id,vlan_name,interface)
